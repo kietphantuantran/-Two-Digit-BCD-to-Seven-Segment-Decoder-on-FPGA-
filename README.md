@@ -1,6 +1,15 @@
 # -Two-Digit-BCD-to-Seven-Segment-Decoder-on-FPGA-
 8-position DIP switch is used to generate input which is the BCD code and get displayed through 4 red LEDs and 4 green LEDs with the red LEDs display the input for 1st digit and green LEDs for 2nd digit. The BCD code then gets decoded by the FPGA and used to drive two 7-segment LEDs.
 
+### What I used:
+- Quartus Prime and Verilog 
+- Intel Cyclone IV EP4CE6E22C8N FPGA 
+- 8-position DIP switches
+- 8 pull-down resistors with a value of 4.7 kΩ
+- 22 current-limiting resistors for red, green, and 7-segment LEDs with a value of 220 Ω.
+- 2 7-segment displays
+- Truth tables for each segment, with simplified Boolean equations obtained from a truth table-to-Boolean-equation solver from Boolean Master
+
 ### Truth Table
 <img width="548" height="553" alt="Screenshot 2026-10-11 231504" src="https://github.com/user-attachments/assets/b22ddff8-a6db-413e-bcd4-5479871d53a1" />
 
