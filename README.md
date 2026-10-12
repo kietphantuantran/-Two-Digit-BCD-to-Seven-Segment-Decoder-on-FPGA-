@@ -10,3 +10,6 @@
 ### Pin Planner
 <img width="1250" height="502" alt="Screenshot 2026-10-11 231421" src="https://github.com/user-attachments/assets/ed63feb9-9645-42a9-95c8-e66fa00f319c" />
 
+### Verilog Code
+<img width="1018" height="345" alt="Screenshot 2026-10-11 231409" src="https://github.com/user-attachments/assets/e6d61dc5-8c99-4253-996c-03b29454d0a7" />
+
